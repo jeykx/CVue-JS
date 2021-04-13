@@ -2,9 +2,9 @@
     <div id="app">
 <div class="home">
      <div class="mt-3 mb-2">
-    <b-avatar src="https://media-exp1.licdn.com/dms/image/C4D35AQGxT0Oh_E2X5Q/profile-framedphoto-shrink_200_200/0/1612107669242?e=1618142400&v=beta&t=X13yNaMr3m6SKWyJyDG7ip39vkqLjymvE-j8yi_GQTQ" size="10rem"></b-avatar>
+    <b-avatar src="https://scontent.flil1-1.fna.fbcdn.net/v/t1.6435-9/70183945_1406313506182469_4127209339456847872_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=iyleJGLJbBkAX9QLCpQ&_nc_ht=scontent.flil1-1.fna&oh=21bb5239d3fe5c431d6a8f149dd53952&oe=609A2C57" size="10rem"></b-avatar>
   </div>
-   <h1>Jérémy Dufour</h1>
+   <h1 id="name">Jérémy Dufour</h1>
    <h2>Développeur web (Symfony - Vue JS)</h2>
   </div>
     <div id="nav">

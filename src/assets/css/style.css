@@ -1,0 +1,27 @@
+body {
+    background-color: #18191A;
+}
+
+.about {
+    background-color: #242526;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 1%;
+}
+
+h1 {
+    margin-bottom: 2%;
+}
+
+h1, p {
+    color: #B0B3B8;
+}
+
+h1,h2, #name {
+    color: #28a745;
+}
+
+h1, h2 {
+    font-family: 'Share Tech', sans-serif;
+}
