@@ -8,6 +8,7 @@ body {
     padding-top: 2%;
     padding-bottom: 2%;
     border-radius: 1%;
+    border: dashed 3px #18191A;
 }
 
 h1 {
@@ -25,3 +26,17 @@ h1,h2, #name {
 h1, h2 {
     font-family: 'Share Tech', sans-serif;
 }
+
+img {
+    width: 30%;
+    margin-right: 2%;
+}
+
+.zoom {
+    padding: 20px;
+    transition: transform .2s; /* Animation */
+  }
+
+  .zoom:hover {
+    transform: scale(1.2); /* (120% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
