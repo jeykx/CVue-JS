@@ -1,6 +1,6 @@
 <template>
   <div class="container about">
-    <h1>Stack technique</h1>
+    <h1>Mes compétences</h1>
     <img class="img-fluid zoom" src="../assets/img/apiplatform.webp" alt="apiplatform" >
     <img class="img-fluid zoom" src="../assets/img/vuejs.webp" alt="vuejs" >
     <img class="img-fluid zoom" src="../assets/img/symfony.webp" alt="symfony" >

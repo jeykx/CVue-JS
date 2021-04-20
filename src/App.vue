@@ -30,14 +30,26 @@ export default {
 
 #nav {
   padding: 30px;
+  margin-top: 2%;
 }
 
 #nav a {
+  font-size: 19px;
   font-weight: bold;
+  font-family: 'Share Tech', sans-serif;
   color: #c1c6cc;
+}
+
+#nav a:hover {
+
+ text-decoration: underline #28a745;
+ transition: transform .2s;
 }
 
 #nav a.router-link-exact-active {
   color: #d6e4de;
+  border: solid #28a745 1px;
+ text-decoration: none;
+ padding: 1px 1px;
 }
 </style>
