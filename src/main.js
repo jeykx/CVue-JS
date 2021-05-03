@@ -15,6 +15,10 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+module.exports = {
+  publicPath: '/Jeremy-Dufour/'
+}
+
 
 new Vue({
   router,
